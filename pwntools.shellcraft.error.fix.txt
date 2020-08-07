@@ -6,6 +6,6 @@ pip3 uninstall pwntools
 sudo apt-get remove python-mako
 
 + + + + 
-
+apt-get install gcc-9-base
 apt-get install python3-mako
 pip3 install pwntools
